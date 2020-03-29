@@ -1,0 +1,509 @@
+[29Mar2020 10:42:06.751] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 31.1.0, --fml.mcpVersion, 20200122.131323, --fml.mcVersion, 1.15.2, --fml.forgeGroup, net.minecraftforge]
+[29Mar2020 10:42:06.754] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 5.0.0-milestone.4+67+b1a340b starting: java version 1.8.0_242 by Oracle Corporation
+[29Mar2020 10:42:06.954] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[29Mar2020 10:42:08.490] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[29Mar2020 10:42:21.336] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[29Mar2020 10:42:21.338] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29Mar2020 10:42:21.339] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29Mar2020 10:42:21.340] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[29Mar2020 10:42:21.342] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29Mar2020 10:42:21.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.15.2
+[29Mar2020 10:42:24.897] [modloading-worker-0/INFO] [com.mairwunnx.projectessentials.core.EssBase/]: 
+            **** Project Essentials Home starting initializing ****
+
+    - Mod Id: project_essentials_home
+    - Version: 1.15.2-1.1.0
+    - Maintainer: MairwunNx (Pavel Erokhin)
+    - Target Forge version: 31.1.X
+    - Target Minecraft version: 1.15.2
+    - Source code: https://github.com/ProjectEssentials/ProjectEssentials-Home/
+    - Telegram chat: https://t.me/minecraftforge
+    - CurseForge: https://www.curseforge.com/minecraft/mc-mods/project-essentials-home
+
+[29Mar2020 10:42:24.976] [modloading-worker-0/INFO] [com.mairwunnx.projectessentials.home.storage.StorageBase/]: Loading user home data configuration
+[29Mar2020 10:42:25.534] [modloading-worker-0/INFO] [com.mairwunnx.projectessentials.home.storage.StorageBase/]: Loading user home data done configurations with 557ms
+[29Mar2020 10:42:25.544] [modloading-worker-0/INFO] [com.mairwunnx.projectessentials.core.configuration.localization.LocalizationConfigurationUtils/]: Loading localization configuration
+[29Mar2020 10:42:25.562] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 31.1.0, for MC 1.15.2 with MCP 20200122.131323
+[29Mar2020 10:42:25.564] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v31.1.0 Initialized
+[29Mar2020 10:42:25.822] [modloading-worker-1/INFO] [com.mairwunnx.projectessentials.core.EssBase/]: 
+            **** Project Essentials Core starting initializing ****
+
+    - Mod Id: project_essentials_core
+    - Version: 1.15.2-1.1.0
+    - Maintainer: MairwunNx (Pavel Erokhin)
+    - Target Forge version: 31.1.X
+    - Target Minecraft version: 1.15.2
+    - Source code: https://github.com/ProjectEssentials/ProjectEssentials-Core/
+    - Telegram chat: https://t.me/minecraftforge
+    - CurseForge: https://www.curseforge.com/minecraft/mc-mods/project-essentials-core
+
+[29Mar2020 10:42:25.852] [modloading-worker-1/INFO] [com.mairwunnx.projectessentials.core.configuration.commands.CommandsConfigurationUtils/]: Loading native vanilla commands configuration
+[29Mar2020 10:42:26.479] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[29Mar2020 10:42:26.482] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[29Mar2020 10:42:26.484] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[29Mar2020 10:42:26.486] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[29Mar2020 10:42:26.488] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[29Mar2020 10:42:26.490] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[29Mar2020 10:42:26.492] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[29Mar2020 10:42:26.494] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[29Mar2020 10:42:26.496] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[29Mar2020 10:42:27.913] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity biomesoplenty:boat_bop
+[29Mar2020 10:42:28.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [project_essentials_home] Starting version check at https://raw.githubusercontent.com/ProjectEssentials/ProjectEssentials-Home/MC-1.15.2/update.json
+[29Mar2020 10:42:28.599] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: CraftingMapper, with priority 0
+[29Mar2020 10:42:28.613] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: ShulkerBoxColoringMapper, with priority 0
+[29Mar2020 10:42:28.627] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: APICustomEMCMapper, with priority 0
+[29Mar2020 10:42:28.666] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: BrewingMapper, with priority 0
+[29Mar2020 10:42:28.679] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: TippedArrowMapper, with priority 0
+[29Mar2020 10:42:28.696] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: FluidMapper, with priority 0
+[29Mar2020 10:42:28.729] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: CustomConversionMapper, with priority 0
+[29Mar2020 10:42:28.735] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: CustomEMCMapper, with priority 0
+[29Mar2020 10:42:28.767] [modloading-worker-0/INFO] [projecte/]: Found and loaded RecipeType Mapper: FallbackRecipeType, with priority -2147483648
+[29Mar2020 10:42:28.772] [modloading-worker-0/INFO] [projecte/]: Found and loaded RecipeType Mapper: VanillaRecipeTypes, with priority 0
+[29Mar2020 10:42:28.795] [modloading-worker-0/INFO] [projecte/]: Found and loaded NBT Processor: EnchantmentProcessor, with priority 0
+[29Mar2020 10:42:28.798] [modloading-worker-0/INFO] [projecte/]: Found and loaded NBT Processor: DamageProcessor, with priority 2147483647
+[29Mar2020 10:42:28.802] [modloading-worker-0/INFO] [projecte/]: Found and loaded NBT Processor: StoredEMCProcessor, with priority 0
+[29Mar2020 10:42:28.843] [Server thread/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Dispatching synchronous work after COMMON_SETUP: 1 jobs
+[29Mar2020 10:42:28.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [project_essentials_home] Found status: UP_TO_DATE Current: 1.15.2-1.1.0 Target: null
+[29Mar2020 10:42:28.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [projecte] Starting version check at https://raw.githubusercontent.com/sinkillerj/ProjectE/mc1.14.x/update.json
+[29Mar2020 10:42:28.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [projecte] Found status: BETA Current: 1.0.3B Target: null
+[29Mar2020 10:42:28.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[29Mar2020 10:42:28.985] [Server thread/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Synchronous work queue completed in 00:00:00.124
+[29Mar2020 10:42:28.989] [modloading-worker-0/INFO] [biomesoplenty/]: Injecting biomesoplenty world type into server.properties. Original value: default
+[29Mar2020 10:42:28.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Mar2020 10:42:28.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Mar2020 10:42:29.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Generating keypair
+[29Mar2020 10:42:29.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Mar2020 10:42:29.308] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[29Mar2020 10:42:30.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 31.1.0 Target: null
+[29Mar2020 10:42:30.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [project_essentials_core] Starting version check at https://raw.githubusercontent.com/ProjectEssentials/ProjectEssentials-Core/MC-1.15.2/update.json
+[29Mar2020 10:42:30.040] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [project_essentials_core] Found status: UP_TO_DATE Current: 1.15.2-1.1.0 Target: null
+[29Mar2020 10:42:30.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "OurWorld"
+[29Mar2020 10:42:31.695] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, bukkit, forge-1.15.2-31.1.0-universal.jar, BiomesOPlenty-1.15.2-10.0.0.345-universal.jar, elevatorid-1.15.2-1.7.0.jar, ironchest-1.15.2-10.0.3.jar, jei-1.15.2-6.0.0.2.jar, OreExcavation-1.7.151.jar, ProjectE-1.15.2-PE1.0.3B.jar, Xaeros_Minimap_20.5.2_Forge_1.15.2.jar, home1.jar, home2.jar
+[29Mar2020 10:42:34.090] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:chests/iron_silver_chest
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_242]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_242]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_242]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:729) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:712) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:706) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1458) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:448) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:361) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:611) [?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[29Mar2020 10:42:34.123] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:upgrades/copper_to_iron_chest_upgrade
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/copper'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_242]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_242]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_242]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:729) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:712) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:706) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1458) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:448) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:361) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:611) [?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[29Mar2020 10:42:34.127] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:upgrades/copper_to_silver_chest_upgrade
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_242]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_242]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_242]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:729) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:712) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:706) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1458) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:448) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:361) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:611) [?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[29Mar2020 10:42:34.140] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:chests/vanilla_copper_chest
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/copper'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_242]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_242]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_242]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:729) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:712) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:706) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1458) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:448) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:361) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:611) [?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[29Mar2020 10:42:34.148] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe projecte:tome as it's conditions were not met
+[29Mar2020 10:42:34.153] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:chests/copper_silver_chest
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_242]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_242]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_242]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:729) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:712) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:706) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1458) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:448) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:361) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:611) [?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[29Mar2020 10:42:34.178] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:upgrades/wood_to_copper_chest_upgrade
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/copper'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_242]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_242]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_242]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:729) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:712) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:706) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1458) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:448) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:361) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:611) [?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[29Mar2020 10:42:34.187] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:upgrades/silver_to_gold_chest_upgrade
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670) ~[?:1.8.0_242]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646) ~[?:1.8.0_242]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) ~[?:1.8.0_242]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:729) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:141) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:712) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:706) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1458) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:448) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:361) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:611) [?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[29Mar2020 10:42:34.209] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[29Mar2020 10:42:35.221] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1006 advancements
+[29Mar2020 10:42:35.603] [Server thread/INFO] [projecte/]: Considering file projecte:pe_custom_conversions/defaults.json, ID projecte:defaults
+[29Mar2020 10:42:35.621] [Server thread/INFO] [projecte/]: Considering file projecte:pe_custom_conversions/metals.json, ID projecte:metals
+[29Mar2020 10:42:35.721] [Server thread/WARN] [projecte/]: EMC Exploit: "0 + 9*Item: minecraft:gold_nugget => 1*Item: minecraft:gold_ingot" ingredient cost: 2043 value of result: 2048 setValueFromConversion: 0 + 8*Item Tag: forge:ingots/iron => 1*Item: minecraft:gold_ingot
+[29Mar2020 10:42:35.729] [Server thread/WARN] [projecte/]: EMC Exploit: ingredients (0 + 9*Item: minecraft:iron_nugget => 1*Item: minecraft:iron_ingot) cost 252 but output value is 256
+[29Mar2020 10:42:35.751] [Server thread/WARN] [projecte/]: EMC Exploit: ingredients (0 + 1*NSSFAKE:/[1 infested_cobblestone, 1 mossy_cobblestone, 1 cobblestone] + 1*Item: minecraft:diorite => 2*Item: minecraft:andesite) cost 17 but output value is 16
+[29Mar2020 10:42:35.780] [Server thread/INFO] [projecte/]: Registered 1258 EMC values. (took 553 ms)
+[29Mar2020 10:42:57.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Mar2020 10:42:58.741] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Mar2020 10:42:58.742] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Mar2020 10:42:58.742] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Mar2020 10:42:58.860] [Server-Worker-1/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Mar2020 10:42:59.372] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 17%
+[29Mar2020 10:42:59.913] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2557 ms
+[29Mar2020 10:42:59.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (29.451s)! For help, type "help"
+[29Mar2020 10:42:59.929] [Server thread/INFO] [biomesoplenty/]: Registering BoP commands...
+[29Mar2020 10:42:59.943] [Server thread/INFO] [com.mairwunnx.projectessentials.home.commands.HomeCommand/]: Register "/home" command
+[29Mar2020 10:42:59.945] [Server thread/INFO] [com.mairwunnx.projectessentials.home.commands.SetHomeCommand/]: Register "/sethome" command
+[29Mar2020 10:42:59.948] [Server thread/INFO] [com.mairwunnx.projectessentials.home.commands.DelHomeCommand/]: Register "/delhome" command
+[29Mar2020 10:43:00.012] [Server thread/INFO] [com.mairwunnx.projectessentials.core.EntryPoint/]: Replacing native vanilla commands
+[29Mar2020 10:43:00.017] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.AdvancementCommand/]: Replacing `/advancement` vanilla command
+[29Mar2020 10:43:00.017] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /advancement
+[29Mar2020 10:43:00.044] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.BossBarCommand/]: Replacing `/bossbar` vanilla command
+[29Mar2020 10:43:00.044] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /bossbar
+[29Mar2020 10:43:00.071] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ClearCommand/]: Replacing `/clear` vanilla command
+[29Mar2020 10:43:00.072] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /clear
+[29Mar2020 10:43:00.081] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.CloneCommand/]: Replacing `/clone` vanilla command
+[29Mar2020 10:43:00.081] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /clone
+[29Mar2020 10:43:00.101] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DataPackCommand/]: Replacing `/datapack` vanilla command
+[29Mar2020 10:43:00.102] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /datapack
+[29Mar2020 10:43:00.114] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DebugCommand/]: Replacing `/debug` vanilla command
+[29Mar2020 10:43:00.114] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /debug
+[29Mar2020 10:43:00.119] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DefaultGameModeCommand/]: Replacing `/defaultgamemode` vanilla command
+[29Mar2020 10:43:00.119] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /defaultgamemode
+[29Mar2020 10:43:00.123] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /difficulty
+[29Mar2020 10:43:00.123] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DifficultyCommand/]: Replacing `/difficulty` vanilla command
+[29Mar2020 10:43:00.128] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /effect
+[29Mar2020 10:43:00.128] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.EffectCommand/]: Replacing `/effect` vanilla command
+[29Mar2020 10:43:00.140] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /enchant
+[29Mar2020 10:43:00.140] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.EnchantCommand/]: Replacing `/enchant` vanilla command
+[29Mar2020 10:43:00.148] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ExecuteCommand/]: Replacing `/execute` vanilla command
+[29Mar2020 10:43:00.149] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /execute
+[29Mar2020 10:43:00.162] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ExperienceCommand/]: Replacing `/experience` vanilla command
+[29Mar2020 10:43:00.162] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /experience
+[29Mar2020 10:43:00.179] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /fill
+[29Mar2020 10:43:00.179] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.FillCommand/]: Replacing `/fill` vanilla command
+[29Mar2020 10:43:00.188] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ForceLoadCommand/]: Replacing `/forceload` vanilla command
+[29Mar2020 10:43:00.188] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /forceload
+[29Mar2020 10:43:00.193] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.FunctionCommand/]: Replacing `/function` vanilla command
+[29Mar2020 10:43:00.193] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /function
+[29Mar2020 10:43:00.196] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.GameModeCommand/]: Replacing `/gamemode` vanilla command
+[29Mar2020 10:43:00.196] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /gamemode
+[29Mar2020 10:43:00.199] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.GameRuleCommand/]: Replacing `/gamerule` vanilla command
+[29Mar2020 10:43:00.200] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /gamerule
+[29Mar2020 10:43:00.205] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.GiveCommand/]: Replacing `/give` vanilla command
+[29Mar2020 10:43:00.205] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /give
+[29Mar2020 10:43:00.208] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.HelpCommand/]: Replacing `/help` vanilla command
+[29Mar2020 10:43:00.209] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /help
+[29Mar2020 10:43:00.212] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.KickCommand/]: Replacing `/kick` vanilla command
+[29Mar2020 10:43:00.212] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /kick
+[29Mar2020 10:43:00.216] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.KillCommand/]: Replacing `/kill` vanilla command
+[29Mar2020 10:43:00.216] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /kill
+[29Mar2020 10:43:00.219] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ListCommand/]: Replacing `/list` vanilla command
+[29Mar2020 10:43:00.219] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /list
+[29Mar2020 10:43:00.223] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.LocateCommand/]: Replacing `/locate` vanilla command
+[29Mar2020 10:43:00.223] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /locate
+[29Mar2020 10:43:00.242] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.LootCommand/]: Replacing `/loot` vanilla command
+[29Mar2020 10:43:00.243] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /loot
+[29Mar2020 10:43:00.250] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.MeCommand/]: Replacing `/me` vanilla command
+[29Mar2020 10:43:00.250] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /me
+[29Mar2020 10:43:00.253] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.MessageCommand/]: Replacing `/msg` vanilla command
+[29Mar2020 10:43:00.253] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /msg
+[29Mar2020 10:43:00.254] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tell
+[29Mar2020 10:43:00.254] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /w
+[29Mar2020 10:43:00.254] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /m
+[29Mar2020 10:43:00.257] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ParticleCommand/]: Replacing `/particle` vanilla command
+[29Mar2020 10:43:00.257] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /particle
+[29Mar2020 10:43:00.266] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.PlaySoundCommand/]: Replacing `/playsound` vanilla command
+[29Mar2020 10:43:00.266] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /playsound
+[29Mar2020 10:43:00.274] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.PublishCommand/]: Replacing `/publish` vanilla command
+[29Mar2020 10:43:00.274] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /publish
+[29Mar2020 10:43:00.279] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.RecipeCommand/]: Replacing `/recipe` vanilla command
+[29Mar2020 10:43:00.279] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /recipe
+[29Mar2020 10:43:00.285] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ReloadCommand/]: Replacing `/reload` vanilla command
+[29Mar2020 10:43:00.285] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /reload
+[29Mar2020 10:43:00.290] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ReplaceItemCommand/]: Replacing `/replaceitem` vanilla command
+[29Mar2020 10:43:00.290] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /replaceitem
+[29Mar2020 10:43:00.295] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SayCommand/]: Replacing `/say` vanilla command
+[29Mar2020 10:43:00.296] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /say
+[29Mar2020 10:43:00.300] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ScheduleCommand/]: Replacing `/schedule` vanilla command
+[29Mar2020 10:43:00.301] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /schedule
+[29Mar2020 10:43:00.308] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ScoreboardCommand/]: Replacing `/scoreboard` vanilla command
+[29Mar2020 10:43:00.308] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /scoreboard
+[29Mar2020 10:43:00.313] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SeedCommand/]: Replacing `/seed` vanilla command
+[29Mar2020 10:43:00.313] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /seed
+[29Mar2020 10:43:00.316] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SetBlockCommand/]: Replacing `/setblock` vanilla command
+[29Mar2020 10:43:00.316] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /setblock
+[29Mar2020 10:43:00.322] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SetWorldSpawnCommand/]: Replacing `/setworldspawn` vanilla command
+[29Mar2020 10:43:00.322] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /setworldspawn
+[29Mar2020 10:43:00.326] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SpawnPointCommand/]: Replacing `/spawnpoint` vanilla command
+[29Mar2020 10:43:00.326] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /spawnpoint
+[29Mar2020 10:43:00.332] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SpreadPlayersCommand/]: Replacing `/spreadplayers` vanilla command
+[29Mar2020 10:43:00.332] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /spreadplayers
+[29Mar2020 10:43:00.334] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.StopSoundCommand/]: Replacing `/stopsound` vanilla command
+[29Mar2020 10:43:00.334] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /stopsound
+[29Mar2020 10:43:00.340] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SummonCommand/]: Replacing `/summon` vanilla command
+[29Mar2020 10:43:00.340] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /summon
+[29Mar2020 10:43:00.345] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TagCommand/]: Replacing `/tag` vanilla command
+[29Mar2020 10:43:00.345] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tag
+[29Mar2020 10:43:00.353] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TeamCommand/]: Replacing `/team` vanilla command
+[29Mar2020 10:43:00.353] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /team
+[29Mar2020 10:43:00.359] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TeamMsgCommand/]: Replacing `/teammsg` vanilla command
+[29Mar2020 10:43:00.360] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /teammsg
+[29Mar2020 10:43:00.360] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tm
+[29Mar2020 10:43:00.364] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TeleportCommand/]: Replacing `/teleport` vanilla command
+[29Mar2020 10:43:00.364] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /teleport
+[29Mar2020 10:43:00.364] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tp
+[29Mar2020 10:43:00.367] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TellRawCommand/]: Replacing `/tellraw` vanilla command
+[29Mar2020 10:43:00.367] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tellraw
+[29Mar2020 10:43:00.370] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TimeCommand/]: Replacing `/time` vanilla command
+[29Mar2020 10:43:00.371] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /time
+[29Mar2020 10:43:00.381] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TitleCommand/]: Replacing `/title` vanilla command
+[29Mar2020 10:43:00.381] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /title
+[29Mar2020 10:43:00.389] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TriggerCommand/]: Replacing `/trigger` vanilla command
+[29Mar2020 10:43:00.389] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /trigger
+[29Mar2020 10:43:00.395] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.WeatherCommand/]: Replacing `/weather` vanilla command
+[29Mar2020 10:43:00.395] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /weather
+[29Mar2020 10:43:00.403] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.WorldBorderCommand/]: Replacing `/worldborder` vanilla command
+[29Mar2020 10:43:00.403] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /worldborder
+[29Mar2020 10:43:00.413] [Server thread/INFO] [com.mairwunnx.projectessentials.core.EntryPoint/]: Replacing native vanilla server commands
+[29Mar2020 10:43:00.415] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.BanCommand/]: Replacing `/ban` vanilla command
+[29Mar2020 10:43:00.415] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /ban
+[29Mar2020 10:43:00.421] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.BanIpCommand/]: Replacing `/ban-ip` vanilla command
+[29Mar2020 10:43:00.421] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /ban-ip
+[29Mar2020 10:43:00.426] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.BanListCommand/]: Replacing `/banlist` vanilla command
+[29Mar2020 10:43:00.426] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /banlist
+[29Mar2020 10:43:00.432] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /deop
+[29Mar2020 10:43:00.432] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DeOpCommand/]: Replacing `/deop` vanilla command
+[29Mar2020 10:43:00.436] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.OpCommand/]: Replacing `/op` vanilla command
+[29Mar2020 10:43:00.436] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /op
+[29Mar2020 10:43:00.439] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.PardonCommand/]: Replacing `/pardon` vanilla command
+[29Mar2020 10:43:00.439] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /pardon
+[29Mar2020 10:43:00.442] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.PardonIpCommand/]: Replacing `/pardon-ip` vanilla command
+[29Mar2020 10:43:00.442] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /pardon-ip
+[29Mar2020 10:43:00.445] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SaveAllCommand/]: Replacing `/save-all` vanilla command
+[29Mar2020 10:43:00.446] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /save-all
+[29Mar2020 10:43:00.448] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SaveOffCommand/]: Replacing `/save-off` vanilla command
+[29Mar2020 10:43:00.448] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /save-off
+[29Mar2020 10:43:00.451] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SaveOnCommand/]: Replacing `/save-on` vanilla command
+[29Mar2020 10:43:00.451] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /save-on
+[29Mar2020 10:43:00.452] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SetIdleTimeoutCommand/]: Replacing `/setidletimeout` vanilla command
+[29Mar2020 10:43:00.453] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /setidletimeout
+[29Mar2020 10:43:00.455] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.StopCommand/]: Replacing `/stop` vanilla command
+[29Mar2020 10:43:00.455] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /stop
+[29Mar2020 10:43:00.457] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.WhitelistCommand/]: Replacing `/whitelist` vanilla command
+[29Mar2020 10:43:00.457] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /whitelist
+[29Mar2020 10:43:00.464] [Server thread/INFO] [com.mairwunnx.projectessentials.core.backlocation.BackLocationCommand/]: Registering `/back` command
+[29Mar2020 10:43:00.869] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Mar2020 10:43:00.871] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Mar2020 10:43:18.533] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player the_epic_gamer30 is 3f111bc6-adb8-4379-b697-ac1d9d31a73e
+[29Mar2020 10:43:20.150] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: the_epic_gamer30[/123.208.28.19:52293] logged in with entity id 420 at (-1498.0, 63.0, -23.0)
+[29Mar2020 10:43:20.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: the_epic_gamer30 joined the game
+[29Mar2020 10:43:20.261] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@2b626e23 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[29Mar2020 10:43:20.262] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@115cdf3c (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[29Mar2020 10:43:20.265] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@44bdf01d (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[29Mar2020 10:43:20.802] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[29Mar2020 10:45:27.274] [Server thread/WARN] [net.minecraft.world.gen.feature.ConfiguredFeature/]: Error while deserializing minecraft:hay_pile
+[29Mar2020 10:45:27.279] [Server thread/WARN] [net.minecraft.world.gen.feature.ConfiguredFeature/]: Error while deserializing minecraft:plain_flower
+[29Mar2020 10:45:27.281] [Server thread/WARN] [net.minecraft.world.gen.feature.ConfiguredFeature/]: Error while deserializing minecraft:normal_tree
+[29Mar2020 10:45:27.293] [Server thread/WARN] [net.minecraft.world.gen.feature.ConfiguredFeature/]: Error while deserializing minecraft:hay_pile
+[29Mar2020 10:45:27.294] [Server thread/WARN] [net.minecraft.world.gen.feature.ConfiguredFeature/]: Error while deserializing minecraft:hay_pile
+[29Mar2020 10:45:27.294] [Server thread/WARN] [net.minecraft.world.gen.feature.ConfiguredFeature/]: Error while deserializing minecraft:hay_pile
+[29Mar2020 10:46:00.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 20 [Villager Spawn Egg] to the_epic_gamer30]
+[29Mar2020 10:47:07.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Energy Condenser] to the_epic_gamer30]
+[29Mar2020 10:47:38.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Wheat] to the_epic_gamer30]
+[29Mar2020 11:04:44.049] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! -42.1383905181242,-7.0,272.21926366111103
+[29Mar2020 11:04:44.060] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! -42.1383905181242,-7.0,272.21926366111103
+[29Mar2020 11:05:02.593] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@2b626e23 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[29Mar2020 11:05:02.593] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@115cdf3c (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[29Mar2020 11:05:02.594] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@44bdf01d (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[29Mar2020 11:05:02.781] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! 1544.0805467352307,31.945106652967922,10.442143969583416
+[29Mar2020 11:05:02.801] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! 1544.0805467352307,31.945106652967922,10.442143969583416
+[29Mar2020 11:11:24.221] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 lost connection: Disconnected
+[29Mar2020 11:11:24.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: the_epic_gamer30 left the game
+[29Mar2020 11:11:24.551] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Mar2020 11:11:29.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[29Mar2020 11:11:29.078] [Server thread/INFO] [com.mairwunnx.projectessentials.core.EntryPoint/]: Shutting down Project Essentials Core mod ...
+[29Mar2020 11:11:29.079] [Server thread/INFO] [com.mairwunnx.projectessentials.core.configuration.commands.CommandsConfigurationUtils/]: Saving confuguration for native vanilla commands
+[29Mar2020 11:11:29.087] [Server thread/INFO] [com.mairwunnx.projectessentials.core.configuration.localization.LocalizationConfigurationUtils/]: Saving localization configuration
+[29Mar2020 11:11:29.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Mar2020 11:11:29.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Mar2020 11:11:29.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Mar2020 11:11:29.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'OurWorld'/minecraft:overworld
+[29Mar2020 11:11:29.270] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (OurWorld): All chunks are saved
+[29Mar2020 11:11:29.286] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (OurWorld): All chunks are saved

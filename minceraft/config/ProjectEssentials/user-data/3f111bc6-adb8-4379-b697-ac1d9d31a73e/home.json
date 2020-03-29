@@ -1,0 +1,24 @@
+{
+    "homes": [
+        {
+            "home": "home",
+            "clientWorld": "OurWorld",
+            "worldId": 0,
+            "xPos": 351,
+            "yPos": 54,
+            "zPos": -32,
+            "yaw": 58.312046,
+            "pitch": 15.660252
+        },
+        {
+            "home": "enchant",
+            "clientWorld": "OurWorld",
+            "worldId": 0,
+            "xPos": -1498,
+            "yPos": 63,
+            "zPos": -23,
+            "yaw": 43.29206,
+            "pitch": 7.7005177
+        }
+    ]
+}
