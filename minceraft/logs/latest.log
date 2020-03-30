@@ -1,14 +1,14 @@
-[29Mar2020 10:42:06.751] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 31.1.0, --fml.mcpVersion, 20200122.131323, --fml.mcVersion, 1.15.2, --fml.forgeGroup, net.minecraftforge]
-[29Mar2020 10:42:06.754] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 5.0.0-milestone.4+67+b1a340b starting: java version 1.8.0_242 by Oracle Corporation
-[29Mar2020 10:42:06.954] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[29Mar2020 10:42:08.490] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .]
-[29Mar2020 10:42:21.336] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[29Mar2020 10:42:21.338] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[29Mar2020 10:42:21.339] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[29Mar2020 10:42:21.340] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[29Mar2020 10:42:21.342] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[29Mar2020 10:42:21.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.15.2
-[29Mar2020 10:42:24.897] [modloading-worker-0/INFO] [com.mairwunnx.projectessentials.core.EssBase/]: 
+[30Mar2020 06:09:21.972] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 31.1.0, --fml.mcpVersion, 20200122.131323, --fml.mcVersion, 1.15.2, --fml.forgeGroup, net.minecraftforge]
+[30Mar2020 06:09:21.976] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 5.0.0-milestone.4+67+b1a340b starting: java version 1.8.0_242 by Oracle Corporation
+[30Mar2020 06:09:22.178] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[30Mar2020 06:09:23.593] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[30Mar2020 06:09:36.282] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[30Mar2020 06:09:36.284] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Mar2020 06:09:36.286] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Mar2020 06:09:36.288] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[30Mar2020 06:09:36.290] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Mar2020 06:09:36.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.15.2
+[30Mar2020 06:09:39.505] [modloading-worker-0/INFO] [com.mairwunnx.projectessentials.core.EssBase/]: 
             **** Project Essentials Home starting initializing ****
 
     - Mod Id: project_essentials_home
@@ -20,12 +20,12 @@
     - Telegram chat: https://t.me/minecraftforge
     - CurseForge: https://www.curseforge.com/minecraft/mc-mods/project-essentials-home
 
-[29Mar2020 10:42:24.976] [modloading-worker-0/INFO] [com.mairwunnx.projectessentials.home.storage.StorageBase/]: Loading user home data configuration
-[29Mar2020 10:42:25.534] [modloading-worker-0/INFO] [com.mairwunnx.projectessentials.home.storage.StorageBase/]: Loading user home data done configurations with 557ms
-[29Mar2020 10:42:25.544] [modloading-worker-0/INFO] [com.mairwunnx.projectessentials.core.configuration.localization.LocalizationConfigurationUtils/]: Loading localization configuration
-[29Mar2020 10:42:25.562] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 31.1.0, for MC 1.15.2 with MCP 20200122.131323
-[29Mar2020 10:42:25.564] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v31.1.0 Initialized
-[29Mar2020 10:42:25.822] [modloading-worker-1/INFO] [com.mairwunnx.projectessentials.core.EssBase/]: 
+[30Mar2020 06:09:39.589] [modloading-worker-0/INFO] [com.mairwunnx.projectessentials.home.storage.StorageBase/]: Loading user home data configuration
+[30Mar2020 06:09:40.182] [modloading-worker-0/INFO] [com.mairwunnx.projectessentials.home.storage.StorageBase/]: Loading user home data done configurations with 592ms
+[30Mar2020 06:09:40.193] [modloading-worker-0/INFO] [com.mairwunnx.projectessentials.core.configuration.localization.LocalizationConfigurationUtils/]: Loading localization configuration
+[30Mar2020 06:09:40.210] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 31.1.0, for MC 1.15.2 with MCP 20200122.131323
+[30Mar2020 06:09:40.211] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v31.1.0 Initialized
+[30Mar2020 06:09:40.742] [modloading-worker-1/INFO] [com.mairwunnx.projectessentials.core.EssBase/]: 
             **** Project Essentials Core starting initializing ****
 
     - Mod Id: project_essentials_core
@@ -37,49 +37,50 @@
     - Telegram chat: https://t.me/minecraftforge
     - CurseForge: https://www.curseforge.com/minecraft/mc-mods/project-essentials-core
 
-[29Mar2020 10:42:25.852] [modloading-worker-1/INFO] [com.mairwunnx.projectessentials.core.configuration.commands.CommandsConfigurationUtils/]: Loading native vanilla commands configuration
-[29Mar2020 10:42:26.479] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
-[29Mar2020 10:42:26.482] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
-[29Mar2020 10:42:26.484] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
-[29Mar2020 10:42:26.486] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
-[29Mar2020 10:42:26.488] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
-[29Mar2020 10:42:26.490] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
-[29Mar2020 10:42:26.492] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
-[29Mar2020 10:42:26.494] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
-[29Mar2020 10:42:26.496] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
-[29Mar2020 10:42:27.913] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity biomesoplenty:boat_bop
-[29Mar2020 10:42:28.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [project_essentials_home] Starting version check at https://raw.githubusercontent.com/ProjectEssentials/ProjectEssentials-Home/MC-1.15.2/update.json
-[29Mar2020 10:42:28.599] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: CraftingMapper, with priority 0
-[29Mar2020 10:42:28.613] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: ShulkerBoxColoringMapper, with priority 0
-[29Mar2020 10:42:28.627] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: APICustomEMCMapper, with priority 0
-[29Mar2020 10:42:28.666] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: BrewingMapper, with priority 0
-[29Mar2020 10:42:28.679] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: TippedArrowMapper, with priority 0
-[29Mar2020 10:42:28.696] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: FluidMapper, with priority 0
-[29Mar2020 10:42:28.729] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: CustomConversionMapper, with priority 0
-[29Mar2020 10:42:28.735] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: CustomEMCMapper, with priority 0
-[29Mar2020 10:42:28.767] [modloading-worker-0/INFO] [projecte/]: Found and loaded RecipeType Mapper: FallbackRecipeType, with priority -2147483648
-[29Mar2020 10:42:28.772] [modloading-worker-0/INFO] [projecte/]: Found and loaded RecipeType Mapper: VanillaRecipeTypes, with priority 0
-[29Mar2020 10:42:28.795] [modloading-worker-0/INFO] [projecte/]: Found and loaded NBT Processor: EnchantmentProcessor, with priority 0
-[29Mar2020 10:42:28.798] [modloading-worker-0/INFO] [projecte/]: Found and loaded NBT Processor: DamageProcessor, with priority 2147483647
-[29Mar2020 10:42:28.802] [modloading-worker-0/INFO] [projecte/]: Found and loaded NBT Processor: StoredEMCProcessor, with priority 0
-[29Mar2020 10:42:28.843] [Server thread/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Dispatching synchronous work after COMMON_SETUP: 1 jobs
-[29Mar2020 10:42:28.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [project_essentials_home] Found status: UP_TO_DATE Current: 1.15.2-1.1.0 Target: null
-[29Mar2020 10:42:28.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [projecte] Starting version check at https://raw.githubusercontent.com/sinkillerj/ProjectE/mc1.14.x/update.json
-[29Mar2020 10:42:28.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [projecte] Found status: BETA Current: 1.0.3B Target: null
-[29Mar2020 10:42:28.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[29Mar2020 10:42:28.985] [Server thread/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Synchronous work queue completed in 00:00:00.124
-[29Mar2020 10:42:28.989] [modloading-worker-0/INFO] [biomesoplenty/]: Injecting biomesoplenty world type into server.properties. Original value: default
-[29Mar2020 10:42:28.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Mar2020 10:42:28.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Mar2020 10:42:29.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Generating keypair
-[29Mar2020 10:42:29.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Mar2020 10:42:29.308] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[29Mar2020 10:42:30.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 31.1.0 Target: null
-[29Mar2020 10:42:30.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [project_essentials_core] Starting version check at https://raw.githubusercontent.com/ProjectEssentials/ProjectEssentials-Core/MC-1.15.2/update.json
-[29Mar2020 10:42:30.040] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [project_essentials_core] Found status: UP_TO_DATE Current: 1.15.2-1.1.0 Target: null
-[29Mar2020 10:42:30.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "OurWorld"
-[29Mar2020 10:42:31.695] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, bukkit, forge-1.15.2-31.1.0-universal.jar, BiomesOPlenty-1.15.2-10.0.0.345-universal.jar, elevatorid-1.15.2-1.7.0.jar, ironchest-1.15.2-10.0.3.jar, jei-1.15.2-6.0.0.2.jar, OreExcavation-1.7.151.jar, ProjectE-1.15.2-PE1.0.3B.jar, Xaeros_Minimap_20.5.2_Forge_1.15.2.jar, home1.jar, home2.jar
-[29Mar2020 10:42:34.090] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:chests/iron_silver_chest
+[30Mar2020 06:09:40.801] [modloading-worker-1/INFO] [com.mairwunnx.projectessentials.core.configuration.commands.CommandsConfigurationUtils/]: Loading native vanilla commands configuration
+[30Mar2020 06:09:41.287] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[30Mar2020 06:09:41.289] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[30Mar2020 06:09:41.291] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[30Mar2020 06:09:41.292] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[30Mar2020 06:09:41.293] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[30Mar2020 06:09:41.293] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[30Mar2020 06:09:41.294] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[30Mar2020 06:09:41.295] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[30Mar2020 06:09:41.295] [modloading-worker-0/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity 
+[30Mar2020 06:09:42.504] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity biomesoplenty:boat_bop
+[30Mar2020 06:09:43.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [project_essentials_home] Starting version check at https://raw.githubusercontent.com/ProjectEssentials/ProjectEssentials-Home/MC-1.15.2/update.json
+[30Mar2020 06:09:43.096] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: CraftingMapper, with priority 0
+[30Mar2020 06:09:43.101] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: ShulkerBoxColoringMapper, with priority 0
+[30Mar2020 06:09:43.112] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: APICustomEMCMapper, with priority 0
+[30Mar2020 06:09:43.143] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: BrewingMapper, with priority 0
+[30Mar2020 06:09:43.146] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: TippedArrowMapper, with priority 0
+[30Mar2020 06:09:43.160] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: FluidMapper, with priority 0
+[30Mar2020 06:09:43.185] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: CustomConversionMapper, with priority 0
+[30Mar2020 06:09:43.188] [modloading-worker-0/INFO] [projecte/]: Found and loaded EMC mapper: CustomEMCMapper, with priority 0
+[30Mar2020 06:09:43.207] [modloading-worker-0/INFO] [projecte/]: Found and loaded RecipeType Mapper: FallbackRecipeType, with priority -2147483648
+[30Mar2020 06:09:43.210] [modloading-worker-0/INFO] [projecte/]: Found and loaded RecipeType Mapper: VanillaRecipeTypes, with priority 0
+[30Mar2020 06:09:43.233] [modloading-worker-0/INFO] [projecte/]: Found and loaded NBT Processor: EnchantmentProcessor, with priority 0
+[30Mar2020 06:09:43.238] [modloading-worker-0/INFO] [projecte/]: Found and loaded NBT Processor: DamageProcessor, with priority 2147483647
+[30Mar2020 06:09:43.242] [modloading-worker-0/INFO] [projecte/]: Found and loaded NBT Processor: StoredEMCProcessor, with priority 0
+[30Mar2020 06:09:43.292] [Server thread/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Dispatching synchronous work after COMMON_SETUP: 1 jobs
+[30Mar2020 06:09:43.463] [Server thread/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Synchronous work queue completed in 00:00:00.163
+[30Mar2020 06:09:43.468] [modloading-worker-0/INFO] [biomesoplenty/]: Injecting biomesoplenty world type into server.properties. Original value: default
+[30Mar2020 06:09:43.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30Mar2020 06:09:43.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30Mar2020 06:09:43.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Generating keypair
+[30Mar2020 06:09:43.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [project_essentials_home] Found status: UP_TO_DATE Current: 1.15.2-1.1.0 Target: null
+[30Mar2020 06:09:43.870] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [projecte] Starting version check at https://raw.githubusercontent.com/sinkillerj/ProjectE/mc1.14.x/update.json
+[30Mar2020 06:09:43.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30Mar2020 06:09:43.978] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[30Mar2020 06:09:44.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [projecte] Found status: BETA Current: 1.0.3B Target: null
+[30Mar2020 06:09:44.077] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[30Mar2020 06:09:45.181] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 31.1.0 Target: null
+[30Mar2020 06:09:45.182] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [project_essentials_core] Starting version check at https://raw.githubusercontent.com/ProjectEssentials/ProjectEssentials-Core/MC-1.15.2/update.json
+[30Mar2020 06:09:45.345] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[30Mar2020 06:09:45.799] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [project_essentials_core] Found status: UP_TO_DATE Current: 1.15.2-1.1.0 Target: null
+[30Mar2020 06:09:46.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "OurWorld"
+[30Mar2020 06:09:46.790] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, bukkit, forge-1.15.2-31.1.0-universal.jar, BiomesOPlenty-1.15.2-10.0.0.345-universal.jar, elevatorid-1.15.2-1.7.0.jar, ironchest-1.15.2-10.0.3.jar, jei-1.15.2-6.0.0.2.jar, OreExcavation-1.7.151.jar, ProjectE-1.15.2-PE1.0.3B.jar, Xaeros_Minimap_20.5.2_Forge_1.15.2.jar, home1.jar, home2.jar
+[30Mar2020 06:09:48.695] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:chests/iron_silver_chest
 com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
@@ -112,7 +113,7 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [?:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:611) [?:?]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[29Mar2020 10:42:34.123] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:upgrades/copper_to_iron_chest_upgrade
+[30Mar2020 06:09:48.726] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:upgrades/copper_to_iron_chest_upgrade
 com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/copper'
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
@@ -145,7 +146,7 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/copper'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [?:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:611) [?:?]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[29Mar2020 10:42:34.127] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:upgrades/copper_to_silver_chest_upgrade
+[30Mar2020 06:09:48.736] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:upgrades/copper_to_silver_chest_upgrade
 com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
@@ -178,7 +179,7 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [?:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:611) [?:?]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[29Mar2020 10:42:34.140] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:chests/vanilla_copper_chest
+[30Mar2020 06:09:48.787] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:chests/vanilla_copper_chest
 com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/copper'
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
@@ -211,8 +212,8 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/copper'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [?:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:611) [?:?]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[29Mar2020 10:42:34.148] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe projecte:tome as it's conditions were not met
-[29Mar2020 10:42:34.153] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:chests/copper_silver_chest
+[30Mar2020 06:09:48.810] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe projecte:tome as it's conditions were not met
+[30Mar2020 06:09:48.829] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:chests/copper_silver_chest
 com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
@@ -245,7 +246,7 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [?:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:611) [?:?]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[29Mar2020 10:42:34.178] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:upgrades/wood_to_copper_chest_upgrade
+[30Mar2020 06:09:48.862] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:upgrades/wood_to_copper_chest_upgrade
 com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/copper'
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
@@ -278,7 +279,7 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/copper'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [?:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:611) [?:?]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[29Mar2020 10:42:34.187] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:upgrades/silver_to_gold_chest_upgrade
+[30Mar2020 06:09:48.873] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:upgrades/silver_to_gold_chest_upgrade
 com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
@@ -311,199 +312,391 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [?:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:611) [?:?]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
-[29Mar2020 10:42:34.209] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
-[29Mar2020 10:42:35.221] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1006 advancements
-[29Mar2020 10:42:35.603] [Server thread/INFO] [projecte/]: Considering file projecte:pe_custom_conversions/defaults.json, ID projecte:defaults
-[29Mar2020 10:42:35.621] [Server thread/INFO] [projecte/]: Considering file projecte:pe_custom_conversions/metals.json, ID projecte:metals
-[29Mar2020 10:42:35.721] [Server thread/WARN] [projecte/]: EMC Exploit: "0 + 9*Item: minecraft:gold_nugget => 1*Item: minecraft:gold_ingot" ingredient cost: 2043 value of result: 2048 setValueFromConversion: 0 + 8*Item Tag: forge:ingots/iron => 1*Item: minecraft:gold_ingot
-[29Mar2020 10:42:35.729] [Server thread/WARN] [projecte/]: EMC Exploit: ingredients (0 + 9*Item: minecraft:iron_nugget => 1*Item: minecraft:iron_ingot) cost 252 but output value is 256
-[29Mar2020 10:42:35.751] [Server thread/WARN] [projecte/]: EMC Exploit: ingredients (0 + 1*NSSFAKE:/[1 infested_cobblestone, 1 mossy_cobblestone, 1 cobblestone] + 1*Item: minecraft:diorite => 2*Item: minecraft:andesite) cost 17 but output value is 16
-[29Mar2020 10:42:35.780] [Server thread/INFO] [projecte/]: Registered 1258 EMC values. (took 553 ms)
-[29Mar2020 10:42:57.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Mar2020 10:42:58.741] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[29Mar2020 10:42:58.742] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[29Mar2020 10:42:58.742] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[29Mar2020 10:42:58.860] [Server-Worker-1/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[29Mar2020 10:42:59.372] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 17%
-[29Mar2020 10:42:59.913] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2557 ms
-[29Mar2020 10:42:59.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (29.451s)! For help, type "help"
-[29Mar2020 10:42:59.929] [Server thread/INFO] [biomesoplenty/]: Registering BoP commands...
-[29Mar2020 10:42:59.943] [Server thread/INFO] [com.mairwunnx.projectessentials.home.commands.HomeCommand/]: Register "/home" command
-[29Mar2020 10:42:59.945] [Server thread/INFO] [com.mairwunnx.projectessentials.home.commands.SetHomeCommand/]: Register "/sethome" command
-[29Mar2020 10:42:59.948] [Server thread/INFO] [com.mairwunnx.projectessentials.home.commands.DelHomeCommand/]: Register "/delhome" command
-[29Mar2020 10:43:00.012] [Server thread/INFO] [com.mairwunnx.projectessentials.core.EntryPoint/]: Replacing native vanilla commands
-[29Mar2020 10:43:00.017] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.AdvancementCommand/]: Replacing `/advancement` vanilla command
-[29Mar2020 10:43:00.017] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /advancement
-[29Mar2020 10:43:00.044] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.BossBarCommand/]: Replacing `/bossbar` vanilla command
-[29Mar2020 10:43:00.044] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /bossbar
-[29Mar2020 10:43:00.071] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ClearCommand/]: Replacing `/clear` vanilla command
-[29Mar2020 10:43:00.072] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /clear
-[29Mar2020 10:43:00.081] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.CloneCommand/]: Replacing `/clone` vanilla command
-[29Mar2020 10:43:00.081] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /clone
-[29Mar2020 10:43:00.101] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DataPackCommand/]: Replacing `/datapack` vanilla command
-[29Mar2020 10:43:00.102] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /datapack
-[29Mar2020 10:43:00.114] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DebugCommand/]: Replacing `/debug` vanilla command
-[29Mar2020 10:43:00.114] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /debug
-[29Mar2020 10:43:00.119] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DefaultGameModeCommand/]: Replacing `/defaultgamemode` vanilla command
-[29Mar2020 10:43:00.119] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /defaultgamemode
-[29Mar2020 10:43:00.123] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /difficulty
-[29Mar2020 10:43:00.123] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DifficultyCommand/]: Replacing `/difficulty` vanilla command
-[29Mar2020 10:43:00.128] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /effect
-[29Mar2020 10:43:00.128] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.EffectCommand/]: Replacing `/effect` vanilla command
-[29Mar2020 10:43:00.140] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /enchant
-[29Mar2020 10:43:00.140] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.EnchantCommand/]: Replacing `/enchant` vanilla command
-[29Mar2020 10:43:00.148] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ExecuteCommand/]: Replacing `/execute` vanilla command
-[29Mar2020 10:43:00.149] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /execute
-[29Mar2020 10:43:00.162] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ExperienceCommand/]: Replacing `/experience` vanilla command
-[29Mar2020 10:43:00.162] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /experience
-[29Mar2020 10:43:00.179] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /fill
-[29Mar2020 10:43:00.179] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.FillCommand/]: Replacing `/fill` vanilla command
-[29Mar2020 10:43:00.188] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ForceLoadCommand/]: Replacing `/forceload` vanilla command
-[29Mar2020 10:43:00.188] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /forceload
-[29Mar2020 10:43:00.193] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.FunctionCommand/]: Replacing `/function` vanilla command
-[29Mar2020 10:43:00.193] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /function
-[29Mar2020 10:43:00.196] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.GameModeCommand/]: Replacing `/gamemode` vanilla command
-[29Mar2020 10:43:00.196] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /gamemode
-[29Mar2020 10:43:00.199] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.GameRuleCommand/]: Replacing `/gamerule` vanilla command
-[29Mar2020 10:43:00.200] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /gamerule
-[29Mar2020 10:43:00.205] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.GiveCommand/]: Replacing `/give` vanilla command
-[29Mar2020 10:43:00.205] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /give
-[29Mar2020 10:43:00.208] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.HelpCommand/]: Replacing `/help` vanilla command
-[29Mar2020 10:43:00.209] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /help
-[29Mar2020 10:43:00.212] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.KickCommand/]: Replacing `/kick` vanilla command
-[29Mar2020 10:43:00.212] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /kick
-[29Mar2020 10:43:00.216] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.KillCommand/]: Replacing `/kill` vanilla command
-[29Mar2020 10:43:00.216] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /kill
-[29Mar2020 10:43:00.219] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ListCommand/]: Replacing `/list` vanilla command
-[29Mar2020 10:43:00.219] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /list
-[29Mar2020 10:43:00.223] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.LocateCommand/]: Replacing `/locate` vanilla command
-[29Mar2020 10:43:00.223] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /locate
-[29Mar2020 10:43:00.242] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.LootCommand/]: Replacing `/loot` vanilla command
-[29Mar2020 10:43:00.243] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /loot
-[29Mar2020 10:43:00.250] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.MeCommand/]: Replacing `/me` vanilla command
-[29Mar2020 10:43:00.250] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /me
-[29Mar2020 10:43:00.253] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.MessageCommand/]: Replacing `/msg` vanilla command
-[29Mar2020 10:43:00.253] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /msg
-[29Mar2020 10:43:00.254] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tell
-[29Mar2020 10:43:00.254] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /w
-[29Mar2020 10:43:00.254] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /m
-[29Mar2020 10:43:00.257] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ParticleCommand/]: Replacing `/particle` vanilla command
-[29Mar2020 10:43:00.257] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /particle
-[29Mar2020 10:43:00.266] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.PlaySoundCommand/]: Replacing `/playsound` vanilla command
-[29Mar2020 10:43:00.266] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /playsound
-[29Mar2020 10:43:00.274] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.PublishCommand/]: Replacing `/publish` vanilla command
-[29Mar2020 10:43:00.274] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /publish
-[29Mar2020 10:43:00.279] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.RecipeCommand/]: Replacing `/recipe` vanilla command
-[29Mar2020 10:43:00.279] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /recipe
-[29Mar2020 10:43:00.285] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ReloadCommand/]: Replacing `/reload` vanilla command
-[29Mar2020 10:43:00.285] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /reload
-[29Mar2020 10:43:00.290] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ReplaceItemCommand/]: Replacing `/replaceitem` vanilla command
-[29Mar2020 10:43:00.290] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /replaceitem
-[29Mar2020 10:43:00.295] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SayCommand/]: Replacing `/say` vanilla command
-[29Mar2020 10:43:00.296] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /say
-[29Mar2020 10:43:00.300] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ScheduleCommand/]: Replacing `/schedule` vanilla command
-[29Mar2020 10:43:00.301] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /schedule
-[29Mar2020 10:43:00.308] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ScoreboardCommand/]: Replacing `/scoreboard` vanilla command
-[29Mar2020 10:43:00.308] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /scoreboard
-[29Mar2020 10:43:00.313] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SeedCommand/]: Replacing `/seed` vanilla command
-[29Mar2020 10:43:00.313] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /seed
-[29Mar2020 10:43:00.316] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SetBlockCommand/]: Replacing `/setblock` vanilla command
-[29Mar2020 10:43:00.316] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /setblock
-[29Mar2020 10:43:00.322] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SetWorldSpawnCommand/]: Replacing `/setworldspawn` vanilla command
-[29Mar2020 10:43:00.322] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /setworldspawn
-[29Mar2020 10:43:00.326] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SpawnPointCommand/]: Replacing `/spawnpoint` vanilla command
-[29Mar2020 10:43:00.326] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /spawnpoint
-[29Mar2020 10:43:00.332] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SpreadPlayersCommand/]: Replacing `/spreadplayers` vanilla command
-[29Mar2020 10:43:00.332] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /spreadplayers
-[29Mar2020 10:43:00.334] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.StopSoundCommand/]: Replacing `/stopsound` vanilla command
-[29Mar2020 10:43:00.334] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /stopsound
-[29Mar2020 10:43:00.340] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SummonCommand/]: Replacing `/summon` vanilla command
-[29Mar2020 10:43:00.340] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /summon
-[29Mar2020 10:43:00.345] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TagCommand/]: Replacing `/tag` vanilla command
-[29Mar2020 10:43:00.345] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tag
-[29Mar2020 10:43:00.353] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TeamCommand/]: Replacing `/team` vanilla command
-[29Mar2020 10:43:00.353] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /team
-[29Mar2020 10:43:00.359] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TeamMsgCommand/]: Replacing `/teammsg` vanilla command
-[29Mar2020 10:43:00.360] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /teammsg
-[29Mar2020 10:43:00.360] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tm
-[29Mar2020 10:43:00.364] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TeleportCommand/]: Replacing `/teleport` vanilla command
-[29Mar2020 10:43:00.364] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /teleport
-[29Mar2020 10:43:00.364] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tp
-[29Mar2020 10:43:00.367] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TellRawCommand/]: Replacing `/tellraw` vanilla command
-[29Mar2020 10:43:00.367] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tellraw
-[29Mar2020 10:43:00.370] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TimeCommand/]: Replacing `/time` vanilla command
-[29Mar2020 10:43:00.371] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /time
-[29Mar2020 10:43:00.381] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TitleCommand/]: Replacing `/title` vanilla command
-[29Mar2020 10:43:00.381] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /title
-[29Mar2020 10:43:00.389] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TriggerCommand/]: Replacing `/trigger` vanilla command
-[29Mar2020 10:43:00.389] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /trigger
-[29Mar2020 10:43:00.395] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.WeatherCommand/]: Replacing `/weather` vanilla command
-[29Mar2020 10:43:00.395] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /weather
-[29Mar2020 10:43:00.403] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.WorldBorderCommand/]: Replacing `/worldborder` vanilla command
-[29Mar2020 10:43:00.403] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /worldborder
-[29Mar2020 10:43:00.413] [Server thread/INFO] [com.mairwunnx.projectessentials.core.EntryPoint/]: Replacing native vanilla server commands
-[29Mar2020 10:43:00.415] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.BanCommand/]: Replacing `/ban` vanilla command
-[29Mar2020 10:43:00.415] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /ban
-[29Mar2020 10:43:00.421] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.BanIpCommand/]: Replacing `/ban-ip` vanilla command
-[29Mar2020 10:43:00.421] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /ban-ip
-[29Mar2020 10:43:00.426] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.BanListCommand/]: Replacing `/banlist` vanilla command
-[29Mar2020 10:43:00.426] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /banlist
-[29Mar2020 10:43:00.432] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /deop
-[29Mar2020 10:43:00.432] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DeOpCommand/]: Replacing `/deop` vanilla command
-[29Mar2020 10:43:00.436] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.OpCommand/]: Replacing `/op` vanilla command
-[29Mar2020 10:43:00.436] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /op
-[29Mar2020 10:43:00.439] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.PardonCommand/]: Replacing `/pardon` vanilla command
-[29Mar2020 10:43:00.439] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /pardon
-[29Mar2020 10:43:00.442] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.PardonIpCommand/]: Replacing `/pardon-ip` vanilla command
-[29Mar2020 10:43:00.442] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /pardon-ip
-[29Mar2020 10:43:00.445] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SaveAllCommand/]: Replacing `/save-all` vanilla command
-[29Mar2020 10:43:00.446] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /save-all
-[29Mar2020 10:43:00.448] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SaveOffCommand/]: Replacing `/save-off` vanilla command
-[29Mar2020 10:43:00.448] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /save-off
-[29Mar2020 10:43:00.451] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SaveOnCommand/]: Replacing `/save-on` vanilla command
-[29Mar2020 10:43:00.451] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /save-on
-[29Mar2020 10:43:00.452] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SetIdleTimeoutCommand/]: Replacing `/setidletimeout` vanilla command
-[29Mar2020 10:43:00.453] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /setidletimeout
-[29Mar2020 10:43:00.455] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.StopCommand/]: Replacing `/stop` vanilla command
-[29Mar2020 10:43:00.455] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /stop
-[29Mar2020 10:43:00.457] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.WhitelistCommand/]: Replacing `/whitelist` vanilla command
-[29Mar2020 10:43:00.457] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /whitelist
-[29Mar2020 10:43:00.464] [Server thread/INFO] [com.mairwunnx.projectessentials.core.backlocation.BackLocationCommand/]: Registering `/back` command
-[29Mar2020 10:43:00.869] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[29Mar2020 10:43:00.871] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[29Mar2020 10:43:18.533] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player the_epic_gamer30 is 3f111bc6-adb8-4379-b697-ac1d9d31a73e
-[29Mar2020 10:43:20.150] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: the_epic_gamer30[/123.208.28.19:52293] logged in with entity id 420 at (-1498.0, 63.0, -23.0)
-[29Mar2020 10:43:20.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: the_epic_gamer30 joined the game
-[29Mar2020 10:43:20.261] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@2b626e23 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
-[29Mar2020 10:43:20.262] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@115cdf3c (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[29Mar2020 10:43:20.265] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@44bdf01d (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[29Mar2020 10:43:20.802] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[29Mar2020 10:45:27.274] [Server thread/WARN] [net.minecraft.world.gen.feature.ConfiguredFeature/]: Error while deserializing minecraft:hay_pile
-[29Mar2020 10:45:27.279] [Server thread/WARN] [net.minecraft.world.gen.feature.ConfiguredFeature/]: Error while deserializing minecraft:plain_flower
-[29Mar2020 10:45:27.281] [Server thread/WARN] [net.minecraft.world.gen.feature.ConfiguredFeature/]: Error while deserializing minecraft:normal_tree
-[29Mar2020 10:45:27.293] [Server thread/WARN] [net.minecraft.world.gen.feature.ConfiguredFeature/]: Error while deserializing minecraft:hay_pile
-[29Mar2020 10:45:27.294] [Server thread/WARN] [net.minecraft.world.gen.feature.ConfiguredFeature/]: Error while deserializing minecraft:hay_pile
-[29Mar2020 10:45:27.294] [Server thread/WARN] [net.minecraft.world.gen.feature.ConfiguredFeature/]: Error while deserializing minecraft:hay_pile
-[29Mar2020 10:46:00.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 20 [Villager Spawn Egg] to the_epic_gamer30]
-[29Mar2020 10:47:07.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Energy Condenser] to the_epic_gamer30]
-[29Mar2020 10:47:38.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Wheat] to the_epic_gamer30]
-[29Mar2020 11:04:44.049] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! -42.1383905181242,-7.0,272.21926366111103
-[29Mar2020 11:04:44.060] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! -42.1383905181242,-7.0,272.21926366111103
-[29Mar2020 11:05:02.593] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@2b626e23 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
-[29Mar2020 11:05:02.593] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@115cdf3c (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
-[29Mar2020 11:05:02.594] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@44bdf01d (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
-[29Mar2020 11:05:02.781] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! 1544.0805467352307,31.945106652967922,10.442143969583416
-[29Mar2020 11:05:02.801] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! 1544.0805467352307,31.945106652967922,10.442143969583416
-[29Mar2020 11:11:24.221] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 lost connection: Disconnected
-[29Mar2020 11:11:24.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: the_epic_gamer30 left the game
-[29Mar2020 11:11:24.551] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[29Mar2020 11:11:29.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[29Mar2020 11:11:29.078] [Server thread/INFO] [com.mairwunnx.projectessentials.core.EntryPoint/]: Shutting down Project Essentials Core mod ...
-[29Mar2020 11:11:29.079] [Server thread/INFO] [com.mairwunnx.projectessentials.core.configuration.commands.CommandsConfigurationUtils/]: Saving confuguration for native vanilla commands
-[29Mar2020 11:11:29.087] [Server thread/INFO] [com.mairwunnx.projectessentials.core.configuration.localization.LocalizationConfigurationUtils/]: Saving localization configuration
-[29Mar2020 11:11:29.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[29Mar2020 11:11:29.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[29Mar2020 11:11:29.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[29Mar2020 11:11:29.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'OurWorld'/minecraft:overworld
-[29Mar2020 11:11:29.270] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (OurWorld): All chunks are saved
-[29Mar2020 11:11:29.286] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (OurWorld): All chunks are saved
+[30Mar2020 06:09:48.889] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[30Mar2020 06:09:50.109] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1006 advancements
+[30Mar2020 06:09:50.604] [Server thread/INFO] [projecte/]: Considering file projecte:pe_custom_conversions/defaults.json, ID projecte:defaults
+[30Mar2020 06:09:50.615] [Server thread/INFO] [projecte/]: Considering file projecte:pe_custom_conversions/metals.json, ID projecte:metals
+[30Mar2020 06:09:50.690] [Server thread/WARN] [projecte/]: EMC Exploit: "0 + 9*Item: minecraft:gold_nugget => 1*Item: minecraft:gold_ingot" ingredient cost: 2043 value of result: 2048 setValueFromConversion: 0 + 8*Item Tag: forge:ingots/iron => 1*Item: minecraft:gold_ingot
+[30Mar2020 06:09:50.702] [Server thread/WARN] [projecte/]: EMC Exploit: ingredients (0 + 9*Item: minecraft:iron_nugget => 1*Item: minecraft:iron_ingot) cost 252 but output value is 256
+[30Mar2020 06:09:50.710] [Server thread/WARN] [projecte/]: EMC Exploit: ingredients (0 + 1*NSSFAKE:/[1 mossy_cobblestone, 1 infested_cobblestone, 1 cobblestone] + 1*Item: minecraft:diorite => 2*Item: minecraft:andesite) cost 17 but output value is 16
+[30Mar2020 06:09:50.726] [Server thread/INFO] [projecte/]: Registered 1258 EMC values. (took 602 ms)
+[30Mar2020 06:10:11.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Mar2020 06:10:12.843] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Mar2020 06:10:12.843] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Mar2020 06:10:12.843] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Mar2020 06:10:12.843] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Mar2020 06:10:13.179] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 18%
+[30Mar2020 06:10:13.778] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2600 ms
+[30Mar2020 06:10:13.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (27.753s)! For help, type "help"
+[30Mar2020 06:10:13.794] [Server thread/INFO] [biomesoplenty/]: Registering BoP commands...
+[30Mar2020 06:10:13.802] [Server thread/INFO] [com.mairwunnx.projectessentials.home.commands.HomeCommand/]: Register "/home" command
+[30Mar2020 06:10:13.806] [Server thread/INFO] [com.mairwunnx.projectessentials.home.commands.SetHomeCommand/]: Register "/sethome" command
+[30Mar2020 06:10:13.810] [Server thread/INFO] [com.mairwunnx.projectessentials.home.commands.DelHomeCommand/]: Register "/delhome" command
+[30Mar2020 06:10:14.023] [Server thread/INFO] [com.mairwunnx.projectessentials.core.EntryPoint/]: Replacing native vanilla commands
+[30Mar2020 06:10:14.026] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.AdvancementCommand/]: Replacing `/advancement` vanilla command
+[30Mar2020 06:10:14.026] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /advancement
+[30Mar2020 06:10:14.067] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.BossBarCommand/]: Replacing `/bossbar` vanilla command
+[30Mar2020 06:10:14.068] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /bossbar
+[30Mar2020 06:10:14.088] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ClearCommand/]: Replacing `/clear` vanilla command
+[30Mar2020 06:10:14.089] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /clear
+[30Mar2020 06:10:14.095] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.CloneCommand/]: Replacing `/clone` vanilla command
+[30Mar2020 06:10:14.095] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /clone
+[30Mar2020 06:10:14.108] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DataPackCommand/]: Replacing `/datapack` vanilla command
+[30Mar2020 06:10:14.109] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /datapack
+[30Mar2020 06:10:14.116] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DebugCommand/]: Replacing `/debug` vanilla command
+[30Mar2020 06:10:14.117] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /debug
+[30Mar2020 06:10:14.119] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DefaultGameModeCommand/]: Replacing `/defaultgamemode` vanilla command
+[30Mar2020 06:10:14.120] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /defaultgamemode
+[30Mar2020 06:10:14.122] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /difficulty
+[30Mar2020 06:10:14.122] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DifficultyCommand/]: Replacing `/difficulty` vanilla command
+[30Mar2020 06:10:14.125] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /effect
+[30Mar2020 06:10:14.125] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.EffectCommand/]: Replacing `/effect` vanilla command
+[30Mar2020 06:10:14.134] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /enchant
+[30Mar2020 06:10:14.134] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.EnchantCommand/]: Replacing `/enchant` vanilla command
+[30Mar2020 06:10:14.139] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ExecuteCommand/]: Replacing `/execute` vanilla command
+[30Mar2020 06:10:14.139] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /execute
+[30Mar2020 06:10:14.149] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ExperienceCommand/]: Replacing `/experience` vanilla command
+[30Mar2020 06:10:14.150] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /experience
+[30Mar2020 06:10:14.166] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /fill
+[30Mar2020 06:10:14.167] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.FillCommand/]: Replacing `/fill` vanilla command
+[30Mar2020 06:10:14.176] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ForceLoadCommand/]: Replacing `/forceload` vanilla command
+[30Mar2020 06:10:14.177] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /forceload
+[30Mar2020 06:10:14.181] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.FunctionCommand/]: Replacing `/function` vanilla command
+[30Mar2020 06:10:14.181] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /function
+[30Mar2020 06:10:14.184] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.GameModeCommand/]: Replacing `/gamemode` vanilla command
+[30Mar2020 06:10:14.184] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /gamemode
+[30Mar2020 06:10:14.188] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.GameRuleCommand/]: Replacing `/gamerule` vanilla command
+[30Mar2020 06:10:14.188] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /gamerule
+[30Mar2020 06:10:14.194] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.GiveCommand/]: Replacing `/give` vanilla command
+[30Mar2020 06:10:14.194] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /give
+[30Mar2020 06:10:14.198] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.HelpCommand/]: Replacing `/help` vanilla command
+[30Mar2020 06:10:14.198] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /help
+[30Mar2020 06:10:14.201] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.KickCommand/]: Replacing `/kick` vanilla command
+[30Mar2020 06:10:14.202] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /kick
+[30Mar2020 06:10:14.205] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.KillCommand/]: Replacing `/kill` vanilla command
+[30Mar2020 06:10:14.206] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /kill
+[30Mar2020 06:10:14.208] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ListCommand/]: Replacing `/list` vanilla command
+[30Mar2020 06:10:14.209] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /list
+[30Mar2020 06:10:14.213] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.LocateCommand/]: Replacing `/locate` vanilla command
+[30Mar2020 06:10:14.213] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /locate
+[30Mar2020 06:10:14.233] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.LootCommand/]: Replacing `/loot` vanilla command
+[30Mar2020 06:10:14.233] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /loot
+[30Mar2020 06:10:14.241] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.MeCommand/]: Replacing `/me` vanilla command
+[30Mar2020 06:10:14.241] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /me
+[30Mar2020 06:10:14.244] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.MessageCommand/]: Replacing `/msg` vanilla command
+[30Mar2020 06:10:14.245] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /msg
+[30Mar2020 06:10:14.245] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tell
+[30Mar2020 06:10:14.245] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /w
+[30Mar2020 06:10:14.245] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /m
+[30Mar2020 06:10:14.248] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ParticleCommand/]: Replacing `/particle` vanilla command
+[30Mar2020 06:10:14.249] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /particle
+[30Mar2020 06:10:14.258] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.PlaySoundCommand/]: Replacing `/playsound` vanilla command
+[30Mar2020 06:10:14.258] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /playsound
+[30Mar2020 06:10:14.267] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.PublishCommand/]: Replacing `/publish` vanilla command
+[30Mar2020 06:10:14.267] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /publish
+[30Mar2020 06:10:14.271] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.RecipeCommand/]: Replacing `/recipe` vanilla command
+[30Mar2020 06:10:14.271] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /recipe
+[30Mar2020 06:10:14.275] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ReloadCommand/]: Replacing `/reload` vanilla command
+[30Mar2020 06:10:14.275] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /reload
+[30Mar2020 06:10:14.279] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ReplaceItemCommand/]: Replacing `/replaceitem` vanilla command
+[30Mar2020 06:10:14.280] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /replaceitem
+[30Mar2020 06:10:14.284] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SayCommand/]: Replacing `/say` vanilla command
+[30Mar2020 06:10:14.284] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /say
+[30Mar2020 06:10:14.288] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ScheduleCommand/]: Replacing `/schedule` vanilla command
+[30Mar2020 06:10:14.288] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /schedule
+[30Mar2020 06:10:14.294] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.ScoreboardCommand/]: Replacing `/scoreboard` vanilla command
+[30Mar2020 06:10:14.295] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /scoreboard
+[30Mar2020 06:10:14.298] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SeedCommand/]: Replacing `/seed` vanilla command
+[30Mar2020 06:10:14.299] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /seed
+[30Mar2020 06:10:14.301] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SetBlockCommand/]: Replacing `/setblock` vanilla command
+[30Mar2020 06:10:14.301] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /setblock
+[30Mar2020 06:10:14.305] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SetWorldSpawnCommand/]: Replacing `/setworldspawn` vanilla command
+[30Mar2020 06:10:14.306] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /setworldspawn
+[30Mar2020 06:10:14.309] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SpawnPointCommand/]: Replacing `/spawnpoint` vanilla command
+[30Mar2020 06:10:14.309] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /spawnpoint
+[30Mar2020 06:10:14.313] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SpreadPlayersCommand/]: Replacing `/spreadplayers` vanilla command
+[30Mar2020 06:10:14.313] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /spreadplayers
+[30Mar2020 06:10:14.315] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.StopSoundCommand/]: Replacing `/stopsound` vanilla command
+[30Mar2020 06:10:14.315] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /stopsound
+[30Mar2020 06:10:14.320] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SummonCommand/]: Replacing `/summon` vanilla command
+[30Mar2020 06:10:14.320] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /summon
+[30Mar2020 06:10:14.324] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TagCommand/]: Replacing `/tag` vanilla command
+[30Mar2020 06:10:14.324] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tag
+[30Mar2020 06:10:14.330] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TeamCommand/]: Replacing `/team` vanilla command
+[30Mar2020 06:10:14.330] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /team
+[30Mar2020 06:10:14.335] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TeamMsgCommand/]: Replacing `/teammsg` vanilla command
+[30Mar2020 06:10:14.336] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /teammsg
+[30Mar2020 06:10:14.336] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tm
+[30Mar2020 06:10:14.339] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TeleportCommand/]: Replacing `/teleport` vanilla command
+[30Mar2020 06:10:14.339] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /teleport
+[30Mar2020 06:10:14.339] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tp
+[30Mar2020 06:10:14.341] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TellRawCommand/]: Replacing `/tellraw` vanilla command
+[30Mar2020 06:10:14.342] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /tellraw
+[30Mar2020 06:10:14.344] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TimeCommand/]: Replacing `/time` vanilla command
+[30Mar2020 06:10:14.344] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /time
+[30Mar2020 06:10:14.352] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TitleCommand/]: Replacing `/title` vanilla command
+[30Mar2020 06:10:14.352] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /title
+[30Mar2020 06:10:14.358] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.TriggerCommand/]: Replacing `/trigger` vanilla command
+[30Mar2020 06:10:14.358] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /trigger
+[30Mar2020 06:10:14.362] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.WeatherCommand/]: Replacing `/weather` vanilla command
+[30Mar2020 06:10:14.362] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /weather
+[30Mar2020 06:10:14.369] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.WorldBorderCommand/]: Replacing `/worldborder` vanilla command
+[30Mar2020 06:10:14.369] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /worldborder
+[30Mar2020 06:10:14.376] [Server thread/INFO] [com.mairwunnx.projectessentials.core.EntryPoint/]: Replacing native vanilla server commands
+[30Mar2020 06:10:14.377] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.BanCommand/]: Replacing `/ban` vanilla command
+[30Mar2020 06:10:14.377] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /ban
+[30Mar2020 06:10:14.381] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.BanIpCommand/]: Replacing `/ban-ip` vanilla command
+[30Mar2020 06:10:14.381] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /ban-ip
+[30Mar2020 06:10:14.385] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.BanListCommand/]: Replacing `/banlist` vanilla command
+[30Mar2020 06:10:14.385] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /banlist
+[30Mar2020 06:10:14.390] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /deop
+[30Mar2020 06:10:14.390] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.DeOpCommand/]: Replacing `/deop` vanilla command
+[30Mar2020 06:10:14.392] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.OpCommand/]: Replacing `/op` vanilla command
+[30Mar2020 06:10:14.392] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /op
+[30Mar2020 06:10:14.395] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.PardonCommand/]: Replacing `/pardon` vanilla command
+[30Mar2020 06:10:14.395] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /pardon
+[30Mar2020 06:10:14.399] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.PardonIpCommand/]: Replacing `/pardon-ip` vanilla command
+[30Mar2020 06:10:14.399] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /pardon-ip
+[30Mar2020 06:10:14.403] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SaveAllCommand/]: Replacing `/save-all` vanilla command
+[30Mar2020 06:10:14.403] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /save-all
+[30Mar2020 06:10:14.406] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SaveOffCommand/]: Replacing `/save-off` vanilla command
+[30Mar2020 06:10:14.406] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /save-off
+[30Mar2020 06:10:14.408] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SaveOnCommand/]: Replacing `/save-on` vanilla command
+[30Mar2020 06:10:14.408] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /save-on
+[30Mar2020 06:10:14.410] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.SetIdleTimeoutCommand/]: Replacing `/setidletimeout` vanilla command
+[30Mar2020 06:10:14.410] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /setidletimeout
+[30Mar2020 06:10:14.412] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.StopCommand/]: Replacing `/stop` vanilla command
+[30Mar2020 06:10:14.412] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /stop
+[30Mar2020 06:10:14.415] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.commands.WhitelistCommand/]: Replacing `/whitelist` vanilla command
+[30Mar2020 06:10:14.415] [Server thread/INFO] [com.mairwunnx.projectessentials.core.vanilla.utils.NativeCommandUtils/]: Removing native vanilla command /whitelist
+[30Mar2020 06:10:14.422] [Server thread/INFO] [com.mairwunnx.projectessentials.core.backlocation.BackLocationCommand/]: Registering `/back` command
+[30Mar2020 06:10:14.724] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Mar2020 06:10:14.726] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Mar2020 06:10:46.705] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player the_epic_gamer30 is 3f111bc6-adb8-4379-b697-ac1d9d31a73e
+[30Mar2020 06:10:48.482] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: the_epic_gamer30[/123.208.28.19:56430] logged in with entity id 139 at (358.7643839499666, 52.5, -34.922049427757294)
+[30Mar2020 06:10:48.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: the_epic_gamer30 joined the game
+[30Mar2020 06:10:48.594] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@31fdf668 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[30Mar2020 06:10:48.596] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 06:10:48.598] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 06:10:48.843] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[30Mar2020 06:12:02.517] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@31fdf668 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[30Mar2020 06:12:02.517] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 06:12:02.518] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 06:12:03.188] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Mar2020 06:25:44.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Set the time to 1000]
+[30Mar2020 06:27:44.761] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1472, y=69, z=-310} BlockPos{x=-1472, y=70, z=-310}
+[30Mar2020 06:28:14.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Grindstone] to the_epic_gamer30]
+[30Mar2020 06:29:14.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Grindstone] to the_epic_gamer30]
+[30Mar2020 06:29:14.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Grindstone] to the_epic_gamer30]
+[30Mar2020 06:29:14.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Grindstone] to the_epic_gamer30]
+[30Mar2020 06:29:15.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Grindstone] to the_epic_gamer30]
+[30Mar2020 06:29:15.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Grindstone] to the_epic_gamer30]
+[30Mar2020 06:29:15.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Grindstone] to the_epic_gamer30]
+[30Mar2020 06:29:43.184] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/436, l='OurWorld', x=-1465.77, y=68.94, z=-311.30] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.185] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/437, l='OurWorld', x=-1477.83, y=71.00, z=-309.83] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.185] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/438, l='OurWorld', x=-1481.98, y=73.00, z=-315.74] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.186] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/439, l='OurWorld', x=-1470.48, y=70.88, z=-329.20] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:29:43.186] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/489, l='OurWorld', x=-1471.09, y=70.88, z=-329.63] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:29:43.187] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/490, l='OurWorld', x=-1478.77, y=72.00, z=-321.68] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.187] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/491, l='OurWorld', x=-1470.12, y=70.00, z=-306.39] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.187] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/492, l='OurWorld', x=-1477.27, y=73.00, z=-319.13] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.188] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/493, l='OurWorld', x=-1477.49, y=73.00, z=-315.24] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.188] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/494, l='OurWorld', x=-1470.60, y=70.00, z=-308.62] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.189] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/495, l='OurWorld', x=-1430.32, y=66.00, z=-264.79] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.189] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/496, l='OurWorld', x=-1423.56, y=64.00, z=-267.62] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.190] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/497, l='OurWorld', x=-1471.92, y=70.88, z=-329.52] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:29:43.190] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/498, l='OurWorld', x=-1468.68, y=69.00, z=-311.39] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.190] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/499, l='OurWorld', x=-1471.57, y=71.00, z=-327.31] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:29:43.191] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/500, l='OurWorld', x=-1470.26, y=70.00, z=-305.76] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.191] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/501, l='OurWorld', x=-1469.40, y=70.00, z=-306.68] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.192] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/502, l='OurWorld', x=-1482.36, y=73.00, z=-320.74] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.192] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/503, l='OurWorld', x=-1473.82, y=71.00, z=-325.14] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:29:43.193] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/504, l='OurWorld', x=-1396.68, y=63.94, z=-337.47] died, message: 'Farmer fell out of the world'
+[30Mar2020 06:29:43.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Killed 20 entities]
+[30Mar2020 06:29:52.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 20 [Villager Spawn Egg] to the_epic_gamer30]
+[30Mar2020 06:31:20.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 128 [Coal] to the_epic_gamer30]
+[30Mar2020 06:32:27.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Iron Ingot] to the_epic_gamer30]
+[30Mar2020 06:35:09.527] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/3103, l='OurWorld', x=-1454.46, y=69.77, z=-329.68] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:35:09.528] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/3104, l='OurWorld', x=-1452.30, y=71.00, z=-331.59] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:35:09.528] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/3105, l='OurWorld', x=-1450.58, y=69.00, z=-321.02] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:35:09.529] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/3106, l='OurWorld', x=-1454.27, y=69.50, z=-328.73] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:35:09.529] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/3107, l='OurWorld', x=-1458.72, y=71.00, z=-333.30] died, message: 'Villager fell out of the world'
+[30Mar2020 06:35:09.530] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/3108, l='OurWorld', x=-1487.89, y=72.00, z=-345.04] died, message: 'Villager fell out of the world'
+[30Mar2020 06:35:09.530] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/3109, l='OurWorld', x=-1458.59, y=69.00, z=-331.31] died, message: 'Villager fell out of the world'
+[30Mar2020 06:35:09.530] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/3111, l='OurWorld', x=-1442.50, y=69.00, z=-311.12] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:35:09.531] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/3112, l='OurWorld', x=-1452.72, y=71.00, z=-318.53] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:35:09.531] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/3113, l='OurWorld', x=-1463.50, y=70.00, z=-307.76] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:35:09.531] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/3114, l='OurWorld', x=-1453.30, y=69.50, z=-328.88] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:35:09.532] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/3115, l='OurWorld', x=-1453.15, y=71.25, z=-332.39] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:35:09.532] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/3116, l='OurWorld', x=-1451.51, y=69.00, z=-322.95] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:35:09.533] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/3117, l='OurWorld', x=-1486.55, y=71.00, z=-345.78] died, message: 'Villager fell out of the world'
+[30Mar2020 06:35:09.535] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/3118, l='OurWorld', x=-1477.22, y=70.00, z=-338.25] died, message: 'Villager fell out of the world'
+[30Mar2020 06:35:09.536] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/3119, l='OurWorld', x=-1456.00, y=69.00, z=-329.54] died, message: 'Villager fell out of the world'
+[30Mar2020 06:35:09.536] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/3120, l='OurWorld', x=-1493.21, y=73.00, z=-332.20] died, message: 'Villager fell out of the world'
+[30Mar2020 06:35:09.536] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/3121, l='OurWorld', x=-1455.21, y=69.00, z=-329.53] died, message: 'Villager fell out of the world'
+[30Mar2020 06:35:09.537] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/3122, l='OurWorld', x=-1453.84, y=70.00, z=-329.85] died, message: 'Villager fell out of the world'
+[30Mar2020 06:35:09.537] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/3123, l='OurWorld', x=-1452.50, y=69.94, z=-314.52] died, message: 'Weaponsmith fell out of the world'
+[30Mar2020 06:35:09.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Killed 20 entities]
+[30Mar2020 06:35:36.644] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@31fdf668 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[30Mar2020 06:35:36.644] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 06:35:36.645] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 06:35:36.787] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! 1543.8161142622107,31.945106652967933,10.420108385610426
+[30Mar2020 06:40:35.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Nova Cataclysm] to the_epic_gamer30]
+[30Mar2020 06:40:57.910] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@31fdf668 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[30Mar2020 06:40:57.913] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 06:40:57.913] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 06:40:59.108] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Mar2020 06:42:23.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Flint and Steel] to the_epic_gamer30]
+[30Mar2020 06:42:40.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Totem of Undying] to the_epic_gamer30]
+[30Mar2020 06:43:14.874] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! 559.9261786061575,-6.0,-288.6129278981604
+[30Mar2020 06:43:51.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 128 [Block of Emerald] to the_epic_gamer30]
+[30Mar2020 06:44:02.473] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! 1851.712102570532,-9.0,-12.976244567467042
+[30Mar2020 06:44:13.312] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! -1847.5748802123435,8.0,8.699999988079078
+[30Mar2020 06:44:13.324] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! -1847.5748802123435,8.0,8.699999988079078
+[30Mar2020 06:44:30.406] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@31fdf668 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[30Mar2020 06:44:30.407] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 06:44:30.408] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 06:44:30.512] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! 1543.6458143195146,31.945106652967922,9.883667347106332
+[30Mar2020 06:44:30.533] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! 1543.6458143195146,31.945106652967922,9.883667347106332
+[30Mar2020 06:46:34.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 256 [Block of Emerald] to the_epic_gamer30]
+[30Mar2020 06:48:49.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: the_epic_gamer30 has made the advancement [BIG EMC Batteries]
+[30Mar2020 06:50:11.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Enchanting Table] to the_epic_gamer30]
+[30Mar2020 06:51:56.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Lava Bucket] to the_epic_gamer30]
+[30Mar2020 06:53:03.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Feather] to the_epic_gamer30]
+[30Mar2020 06:53:04.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Feather] to the_epic_gamer30]
+[30Mar2020 06:53:04.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Feather] to the_epic_gamer30]
+[30Mar2020 06:53:05.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Feather] to the_epic_gamer30]
+[30Mar2020 07:03:46.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 64 [Glowstone Dust] to the_epic_gamer30]
+[30Mar2020 07:05:12.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Killed 29 entities]
+[30Mar2020 07:06:21.039] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Lasermatic is cb6cb65a-df60-4206-b88f-e7b1c9dddd41
+[30Mar2020 07:06:22.410] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lasermatic[/139.168.193.45:51832] logged in with entity id 8248 at (-1512.8527262236598, 64.0, -7.537708951443021)
+[30Mar2020 07:06:22.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lasermatic joined the game
+[30Mar2020 07:06:22.431] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/3891, l='OurWorld', x=-1501.96, y=32.00, z=19.28]
+[30Mar2020 07:06:22.436] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 07:06:22.444] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 07:06:24.561] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[30Mar2020 07:06:39.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gamerule sendCommandFeedback is now set to: false]
+[30Mar2020 07:07:07.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gamerule sendCommandFeedback is now set to: false]
+[30Mar2020 07:07:15.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Mercurial Eye] to the_epic_gamer30]
+[30Mar2020 07:09:10.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Klein Star Omega] to the_epic_gamer30]
+[30Mar2020 07:09:18.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gamerule sendCommandFeedback is now set to: true]
+[30Mar2020 07:09:43.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lasermatic has made the advancement [Acquire Hardware]
+[30Mar2020 07:10:21.806] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@31fdf668 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[30Mar2020 07:10:21.807] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 07:10:21.807] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 07:10:22.779] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Mar2020 07:15:31.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Set the time to 1000]
+[30Mar2020 07:15:43.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Set the weather to clear]
+[30Mar2020 07:17:11.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lasermatic has reached the goal [Sky's the Limit]
+[30Mar2020 07:18:05.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lasermatic has made the advancement [Stone Age]
+[30Mar2020 07:19:54.918] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1523, y=9, z=-6} BlockPos{x=-1523, y=7, z=-6}
+[30Mar2020 07:19:54.970] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1523, y=9, z=-6} BlockPos{x=-1523, y=7, z=-6}
+[30Mar2020 07:19:55.018] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1523, y=9, z=-6} BlockPos{x=-1523, y=7, z=-6}
+[30Mar2020 07:19:55.069] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1523, y=9, z=-6} BlockPos{x=-1523, y=7, z=-6}
+[30Mar2020 07:19:55.122] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1523, y=9, z=-6} BlockPos{x=-1523, y=7, z=-6}
+[30Mar2020 07:19:55.169] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1523, y=9, z=-6} BlockPos{x=-1523, y=7, z=-6}
+[30Mar2020 07:19:55.223] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1523, y=9, z=-6} BlockPos{x=-1523, y=7, z=-6}
+[30Mar2020 07:19:55.268] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1523, y=9, z=-6} BlockPos{x=-1523, y=7, z=-6}
+[30Mar2020 07:20:12.069] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1524, y=8, z=-25} BlockPos{x=-1524, y=8, z=-24}
+[30Mar2020 07:20:12.518] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1524, y=8, z=-26} BlockPos{x=-1523, y=8, z=-26}
+[30Mar2020 07:20:18.816] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1524, y=9, z=-35} BlockPos{x=-1523, y=8, z=-35}
+[30Mar2020 07:20:19.017] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1524, y=8, z=-35} BlockPos{x=-1524, y=7, z=-34}
+[30Mar2020 07:20:19.068] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1524, y=8, z=-35} BlockPos{x=-1524, y=7, z=-35}
+[30Mar2020 07:20:19.118] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1524, y=8, z=-35} BlockPos{x=-1524, y=7, z=-35}
+[30Mar2020 07:20:19.168] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1524, y=8, z=-35} BlockPos{x=-1524, y=7, z=-35}
+[30Mar2020 07:20:37.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Killed 75 entities]
+[30Mar2020 07:22:06.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Killed 11 entities]
+[30Mar2020 07:27:18.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lasermatic has made the advancement [Eye Spy]
+[30Mar2020 07:27:19.399] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved wrongly!
+[30Mar2020 07:27:19.642] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@31fdf668 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[30Mar2020 07:27:19.642] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 07:27:19.642] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 07:27:19.717] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! 1544.5655724839264,32.1875,10.61159882878619
+[30Mar2020 07:27:38.439] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 07:27:38.441] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 07:27:38.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lasermatic has made the advancement [The End?]
+[30Mar2020 07:27:38.959] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Lasermatic moved too quickly! 1542.7711560251225,32.233632006042484,10.545332465356516
+[30Mar2020 07:34:13.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lasermatic has made the advancement [A Seedy Place]
+[30Mar2020 07:38:13.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Killed 18 entities]
+[30Mar2020 07:38:20.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Killed Dark Oak Sapling]
+[30Mar2020 07:38:36.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Killed 5 entities]
+[30Mar2020 07:44:59.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gamerule sendCommandFeedback is now set to: false]
+[30Mar2020 07:45:16.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 5 [Anti-Matter Relay MK3] to the_epic_gamer30]
+[30Mar2020 07:47:53.808] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat moved wrongly!
+[30Mar2020 07:47:53.809] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat moved wrongly!
+[30Mar2020 07:47:53.882] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat moved wrongly!
+[30Mar2020 07:47:55.537] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat moved wrongly!
+[30Mar2020 07:47:55.581] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat moved wrongly!
+[30Mar2020 07:47:55.612] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat moved wrongly!
+[30Mar2020 07:49:57.630] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Lasermatic) moved too quickly! -896.9716027795881,3.5,-302.83226464448353
+[30Mar2020 07:49:57.643] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of Lasermatic) moved too quickly! -896.8994322556416,3.5,-302.7639279266636
+[30Mar2020 07:51:42.511] [Server thread/INFO] [com.mairwunnx.projectessentials.home.commands.HomeCommand/]: Player Lasermatic try teleport to not exist home home
+[30Mar2020 07:51:48.369] [Server thread/INFO] [com.mairwunnx.projectessentials.home.commands.HomeCommand/]: Player Lasermatic try teleport to not exist home home
+[30Mar2020 08:11:26.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lasermatic has made the advancement [The City at the End of the Game]
+[30Mar2020 08:14:41.332] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lasermatic lost connection: Timed out
+[30Mar2020 08:14:41.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lasermatic left the game
+[30Mar2020 08:14:41.392] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[30Mar2020 08:39:34.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Energy Condenser MK2] to the_epic_gamer30]
+[30Mar2020 08:40:59.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Energy Condenser MK2] to the_epic_gamer30]
+[30Mar2020 08:55:17.471] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Lasermatic is cb6cb65a-df60-4206-b88f-e7b1c9dddd41
+[30Mar2020 08:55:19.429] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lasermatic[/139.168.193.45:52146] logged in with entity id 17253 at (1296.2791213770927, 105.0, 340.552810767124)
+[30Mar2020 08:55:19.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lasermatic joined the game
+[30Mar2020 08:55:19.456] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 08:55:19.456] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 08:55:26.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Teleported Lasermatic to the_epic_gamer30]
+[30Mar2020 08:55:32.724] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[30Mar2020 08:57:44.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gamerule sendCommandFeedback is now set to: false]
+[30Mar2020 08:57:55.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 4 [Swiftwolf's Rending Gale] to the_epic_gamer30]
+[30Mar2020 08:58:01.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gamerule sendCommandFeedback is now set to: true]
+[30Mar2020 08:58:43.348] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@31fdf668 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[30Mar2020 08:58:43.349] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 08:58:43.353] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Oak Log'/10829, l='OurWorld', x=-1533.13, y=68.00, z=-46.63]
+[30Mar2020 08:58:43.354] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Oak Log'/10874, l='OurWorld', x=-1535.70, y=61.00, z=-43.54]
+[30Mar2020 08:58:43.356] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 08:58:56.223] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 08:58:56.225] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 08:58:56.719] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Mar2020 09:00:55.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Teleported the_epic_gamer30 to Lasermatic]
+[30Mar2020 09:00:55.948] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! 17.703920931276798,12.063914916991138,0.8132895373693714
+[30Mar2020 09:00:55.960] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! 17.703920931276798,12.063914916991138,0.8132895373693714
+[30Mar2020 09:00:55.972] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! 17.703920931276798,12.063914916991138,0.8132895373693714
+[30Mar2020 09:09:14.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Killed 318 entities]
+[30Mar2020 09:09:17.673] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved wrongly!
+[30Mar2020 09:10:14.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Killed 153 entities]
+[30Mar2020 09:15:10.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Teleported the_epic_gamer30 to Lasermatic]
+[30Mar2020 09:15:10.312] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! -118.06887196318985,-2.0,294.16896134994977
+[30Mar2020 09:15:10.324] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! -118.06887196318985,-2.0,294.16896134994977
+[30Mar2020 09:15:21.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lasermatic was slain by the_epic_gamer30
+[30Mar2020 09:15:25.116] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 09:15:25.117] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 09:18:06.493] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@31fdf668 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[30Mar2020 09:18:06.493] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 09:18:06.494] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 09:18:06.628] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 moved too quickly! 1544.2753438993432,32.218108805590816,9.299087814987796
+[30Mar2020 09:21:45.765] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@31fdf668 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[30Mar2020 09:21:45.766] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 09:21:45.766] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 09:21:46.864] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Mar2020 09:21:50.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Teleported the_epic_gamer30 to Lasermatic]
+[30Mar2020 09:26:25.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gamerule sendCommandFeedback is now set to: false]
+[30Mar2020 09:26:42.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [the_epic_gamer30: Gave 1 [Block of Coal] to the_epic_gamer30]
+[30Mar2020 09:29:56.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lasermatic was shot by the_epic_gamer30 using [STAND ARROW]
+[30Mar2020 09:29:58.766] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@60b5651a (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[30Mar2020 09:29:58.766] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@49200d01 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[30Mar2020 09:32:45.231] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: the_epic_gamer30 lost connection: Disconnected
+[30Mar2020 09:32:45.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: the_epic_gamer30 left the game
+[30Mar2020 09:34:43.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lasermatic has made the advancement [Storage Upgrade!]
+[30Mar2020 10:04:20.334] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Mar2020 10:05:33.335] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Mar2020 10:10:01.132] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lasermatic lost connection: Disconnected
+[30Mar2020 10:10:01.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lasermatic left the game
+[30Mar2020 10:11:10.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[30Mar2020 10:11:10.536] [Server thread/INFO] [com.mairwunnx.projectessentials.core.EntryPoint/]: Shutting down Project Essentials Core mod ...
+[30Mar2020 10:11:10.536] [Server thread/INFO] [com.mairwunnx.projectessentials.core.configuration.commands.CommandsConfigurationUtils/]: Saving confuguration for native vanilla commands
+[30Mar2020 10:11:10.543] [Server thread/INFO] [com.mairwunnx.projectessentials.core.configuration.localization.LocalizationConfigurationUtils/]: Saving localization configuration
+[30Mar2020 10:11:10.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Mar2020 10:11:10.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Mar2020 10:11:10.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Mar2020 10:11:10.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'OurWorld'/minecraft:overworld
+[30Mar2020 10:11:10.692] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (OurWorld): All chunks are saved
+[30Mar2020 10:11:10.702] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (OurWorld): All chunks are saved
